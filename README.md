@@ -62,3 +62,15 @@ loan-eligibility-predictor/
 from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier()
 model.fit(X_train, y_train)
+
+```
+
+## Output Screenshot
+
+![image](https://github.com/user-attachments/assets/cb3a2fca-a39b-4c45-aa40-0b94dbad960a)
+
+![Screenshot 2025-07-04 084444](https://github.com/user-attachments/assets/396ff459-fd75-471a-9dd3-d251c8e63e2e)
+
+![image](https://github.com/user-attachments/assets/7d9d119a-8856-4aeb-a18f-492e2f454f19)
+
+
