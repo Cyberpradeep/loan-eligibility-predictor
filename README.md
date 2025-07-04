@@ -21,11 +21,11 @@ https://huggingface.co/spaces/Prap017/loan_eligibility_predictor
 
 ## Features
 
-- ✅ Predict loan eligibility based on applicant details
-- ✅ Built with RandomForestClassifier (scikit-learn)
-- ✅ Trained on real-world loan dataset
-- ✅ Web interface using Gradio
-- ✅ Free deployment via Hugging Face
+-  Predict loan eligibility based on applicant details
+-  Built with RandomForestClassifier (scikit-learn)
+-  Trained on real-world loan dataset
+-  Web interface using Gradio
+-  Free deployment via Hugging Face
 
 ---
 
